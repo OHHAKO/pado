@@ -1,4 +1,4 @@
-package com.classic
+package com.pado
 
 import android.app.Application
 import com.facebook.react.PackageList
